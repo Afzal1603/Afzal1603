@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Personal Finance Visualizer**
 - 🌱 Learning **Next.js**, **Advanced Backend Security**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS**
-- 📫 Reach me at: **[afzalansaria660@gmail.com]**
+- 📫 Reach me at: **afzalansaria660@gmail.com**
 - ⚡ Fun fact: *“I debug in my dreams sometimes 😄”*
 
 ---
