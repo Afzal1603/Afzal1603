@@ -55,7 +55,7 @@
   <a href="https://linkedin.com/in/mohdafzalansari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://afzal-portfolio.vercel.app">
+  <a href="https://portfolio-ingenium.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
