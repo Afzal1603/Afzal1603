@@ -11,20 +11,20 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA2Z3Z3cTBtbHc0M2R3OXExNG5sOWg0Y2VqM2NjMmFza3kydXkzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Coding GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG12dHN5NGF1Ymg3aXQxMjBmZmp1dmx6bjhtNmkxNXhyY3RyM2M4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif" width="250" alt="Guts" />
 </p>
 
 Hi, I'm **Mohd Afzal Ansari**, a 3rd-year Computer Science student 🎓 and a passionate **Full Stack Web Developer** based in India 🇮🇳.
 
-- 🔭 Currently building: **Personal Finance Visualizer**
-- 🌱 Currently learning: `Next.js`, `Advanced Backend Security`, and exploring **AI integrations**
+- 🌱 Currently learning: `Next.js`, `Advanced Backend Security`,`Docker` and exploring **AI integrations**
 - 🧠 Areas of expertise: `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`
-- 🛠️ Tools I use daily: `VS Code`, `Postman`, `Git`, `MongoDB Compass`, `Figma`
+- 🛠️ Tools I use daily: `VS Code`, `Postman`, `Git`,  `Figma`
 - 📫 Reach out at: **afzalansaria660@gmail.com**
 - 🧩 Fun fact: *"Sometimes, my bugs get fixed in my dreams 😴🐞"*
 
+**Let's improve together, let's collaborate**
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Fun coding GIF" />
+  <img width="250px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNxdnhta2M0Y2wyMXU4Y2FvOHAwNHZpM2hlNmVhZTlwb3ppNndxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tliXLSkzfq2C4/giphy.gif" />
 </p>
 
 ---
@@ -64,9 +64,6 @@ Hi, I'm **Mohd Afzal Ansari**, a 3rd-year Computer Science student 🎓 and a pa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afzal1603&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXZiMTI0eW5wajYyaTh4N3RsNG1pNDRlZDlzNTBuYXA0ZzJvMndrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Q6K09gcxYWcUxxraT/giphy.gif" width="300" alt="Working hard" />
-</p>
 
 ---
 
@@ -80,6 +77,10 @@ Hi, I'm **Mohd Afzal Ansari**, a 3rd-year Computer Science student 🎓 and a pa
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-ingenium.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img  src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img width="100px" height="100px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXZiMTI0eW5wajYyaTh4N3RsNG1pNDRlZDlzNTBuYXA0ZzJvMndrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Q6K09gcxYWcUxxraT/giphy.gif" width="300" alt="Working hard" />
 </p>
