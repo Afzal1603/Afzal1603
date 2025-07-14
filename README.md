@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Mohd+Afzal+Ansari;A+Passionate+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Afzal1603&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 <p align="center">
@@ -10,6 +14,10 @@
   💬 Ask me about: <strong>React, Node.js, MongoDB, Express, Tailwind CSS</strong><br>
   📫 Reach me at: <strong>afzalansaria660@gmail.com</strong><br>
   ⚡ Fun fact: <em>"I debug in my dreams sometimes 😄"</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW2xOHZBjy5a/giphy.gif" width="300" alt="Anime coder GIF" />
 </p>
 
 ---
@@ -21,6 +29,8 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -29,6 +39,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="250" alt="Tech Stack Anime" />
 </p>
 
 ---
@@ -42,6 +56,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afzal1603&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1MWx5MXUxbzJ1d3h4Z25sazlvYjN5cmRjYmViMjJhbHV1cXliNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Working hard" />
 </p>
 
 ---
