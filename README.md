@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Mohd+Afzal+Ansari;A+Passionate+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Mohd+Afzal+Ansari;A+Passionate+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+Lover;Let's+Build+Something+Great+Together!+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,21 +8,28 @@
 
 ---
 
-<p align="center">
-  🔭 Working on: <strong>Personal Finance Visualizer</strong><br>
-  🌱 Learning: <strong>Next.js, Advanced Backend Security</strong><br>
-  💬 Ask me about: <strong>React, Node.js, MongoDB, Express, Tailwind CSS</strong><br>
-  📫 Reach me at: <strong>afzalansaria660@gmail.com</strong><br>
-  ⚡ Fun fact: <em>"I debug in my dreams sometimes 😄"</em>
-</p>
+### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW2xOHZBjy5a/giphy.gif" width="300" alt="Anime coder GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA2Z3Z3cTBtbHc0M2R3OXExNG5sOWg0Y2VqM2NjMmFza3kydXkzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Coding GIF" />
+</p>
+
+Hi, I'm **Mohd Afzal Ansari**, a 3rd-year Computer Science student 🎓 and a passionate **Full Stack Web Developer** based in India 🇮🇳.
+
+- 🔭 Currently building: **Personal Finance Visualizer**
+- 🌱 Currently learning: `Next.js`, `Advanced Backend Security`, and exploring **AI integrations**
+- 🧠 Areas of expertise: `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`
+- 🛠️ Tools I use daily: `VS Code`, `Postman`, `Git`, `MongoDB Compass`, `Figma`
+- 📫 Reach out at: **afzalansaria660@gmail.com**
+- 🧩 Fun fact: *"Sometimes, my bugs get fixed in my dreams 😴🐞"*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Fun coding GIF" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,12 +48,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB5NDJhcGxtZWl4dzg2b3poMHFpNHBxaTRoY2J0YWxjODk2enY1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif" width="250" alt="Tech Stack Anime" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB5NDJhcGxtZWl4dzg2b3poMHFpNHBxaTRoY2J0YWxjODk2enY1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif" width="250" alt="Tech stack GIF" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Afzal1603&show_icons=true&theme=radical&hide_border=true" />
@@ -63,7 +70,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:afzalansaria660@gmail.com">
