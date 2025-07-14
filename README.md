@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLWRQzi7KlJv36or5WwovyQZJSJY5HBR1hw&s" width="300" alt="Working hard" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXZiMTI0eW5wajYyaTh4N3RsNG1pNDRlZDlzNTBuYXA0ZzJvMndrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Q6K09gcxYWcUxxraT/giphy.gif" width="300" alt="Working hard" />
 </p>
 
 ---
