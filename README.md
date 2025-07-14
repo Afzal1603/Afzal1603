@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="250" alt="Tech Stack Anime" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB5NDJhcGxtZWl4dzg2b3poMHFpNHBxaTRoY2J0YWxjODk2enY1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif" width="250" alt="Tech Stack Anime" />
 </p>
 
 ---
