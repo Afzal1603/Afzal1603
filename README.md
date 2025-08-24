@@ -14,7 +14,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG12dHN5NGF1Ymg3aXQxMjBmZmp1dmx6bjhtNmkxNXhyY3RyM2M4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif" width="250" alt="Guts" />
 </p>
 
-Hi, I'm **Mohd Afzal Ansari**, a 3rd-year Computer Science student 🎓 and a passionate **Full Stack Web Developer** based in India 🇮🇳.
+Hi, I'm **Mohd Afzal Ansari**, a final-year Computer Science student 🎓 and a passionate **Full Stack Web Developer** based in India 🇮🇳.
 
 - 🌱 Currently learning: `Next.js`, `Advanced Backend Security`,`Docker` and exploring **AI integrations**
 - 🧠 Areas of expertise: `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`
