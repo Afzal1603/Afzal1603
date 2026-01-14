@@ -73,10 +73,19 @@ Hi, I'm **Mohd Afzal Ansari**, a final-year Computer Science student 🎓 and a 
 
 ### 📊 GitHub Stats & Activity
 
+<!-- <p align="center"> -->
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Afzal1603&show_icons=true&theme=radical&hide_border=true" /> -->
+  <!-- <img width="48%" src="https://streak-stats.demolab.com?user=Afzal1603&theme=radical&hide_border=true" /> -->
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Afzal1603&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" /> -->
+  <!-- <p align="center"> -->
+  <!-- <img src="https://img.shields.io/badge/Total_Commits-Visible_on_Profile-success?style=for-the-badge" /> -->
+  <!-- <img src="https://img.shields.io/badge/Code_Consistency-High-blueviolet?style=for-the-badge" /> -->
+<!-- </p> -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Afzal1603&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Afzal1603&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Afzal1603&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/Total_Commits-Visible_on_Profile-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code_Consistency-High-blueviolet?style=for-the-badge" />
+</p>
+
 
 </p>
 
